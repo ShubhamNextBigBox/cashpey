@@ -1,0 +1,304 @@
+[14-Jun-2024 07:18:28 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 184
+[14-Jun-2024 07:18:34 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 184
+[14-Jun-2024 09:02:37 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 184
+[14-Jun-2024 09:02:39 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 184
+[14-Jun-2024 09:05:41 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 184
+[14-Jun-2024 09:05:54 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 184
+[08-Jul-2024 06:03:33 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 184
+[08-Jul-2024 06:03:36 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 184
+[27-Mar-2025 04:42:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 04:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 04:43:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 04:43:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 04:46:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 04:46:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 04:46:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 04:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 04:47:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 04:47:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 04:53:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 04:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 04:55:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 04:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 04:55:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 04:55:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 05:15:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 05:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 05:15:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 05:15:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 05:23:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 05:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 05:24:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 05:24:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 05:26:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 05:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 05:52:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 05:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 05:53:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 05:53:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:03:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:03:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:03:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:03:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:03:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:03:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:23:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:33:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:33:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:35:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:35:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:36:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:36:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:36:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:36:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:37:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:37:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:37:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:37:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:37:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:37:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:37:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:38:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:38:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:38:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:39:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:39:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:39:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:40:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:40:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:40:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:40:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:40:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:40:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:40:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:40:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:40:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:41:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:41:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:41:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:41:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:41:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:41:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:43:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:43:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:44:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:44:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:44:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:44:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:44:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:44:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:45:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:48:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:48:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:48:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:48:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:49:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:49:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:49:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:49:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[27-Mar-2025 06:49:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'creditwalle_cdw'@'localhost' (using password: YES) in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 172
+[27-Mar-2025 06:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/creditwalle/public_html/enachAPI/mandate-registration.php:183
+Stack trace:
+#0 {main}
+  thrown in /home/creditwalle/public_html/enachAPI/mandate-registration.php on line 183
+[05-May-2025 11:12:33 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[05-May-2025 11:12:37 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[05-May-2025 11:13:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[05-May-2025 11:13:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[05-May-2025 11:19:05 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[05-May-2025 11:19:24 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[05-May-2025 11:19:36 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[05-May-2025 11:19:36 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[05-May-2025 11:20:22 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[16-May-2025 07:19:03 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[16-May-2025 07:20:43 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, bool given in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 199
+[30-May-2025 11:21:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'Care_Pro'@'localhost' (using password: YES) in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 172
+[30-May-2025 11:21:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/cashpey/public_html/enachAPI/mandate-registration.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/cashpey/public_html/enachAPI/mandate-registration.php on line 182

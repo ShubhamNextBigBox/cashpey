@@ -1,0 +1,22 @@
+
+
+eNach Registration Logs - 2025-05-16 12:49:29===============================================
+Response- ["0392","User Aborted","Enter valid maximum amount","CSPYTXN2353329259","","E43899954","0","{itc:463952CSPY787}{email:}{mob:}","16-05-2025 12:49:28","NA","","","","","","4d9caae16a346b887f60740680e81f1c354592c4214704b75735c6be4aeadc35d9c0847503e5661dd4092e2816d414ba200b0a29b0cab36a303290131fcc1fc9"]
+
+eNach Registration Logs - 2025-05-16 12:54:49===============================================
+Response- ["0392","User Aborted","Enter valid maximum amount","CSPYTXN8764463865","","E43900200","0","{itc:463952CSPY109}{email:}{mob:}","16-05-2025 12:54:48","NA","","","","","","618c53308cc7778f1c0655d9b589361091b86078292c9deae6fdeb5762819f17596a84f70d2d97aee7c891b805fafd1e4dfb470be23e350d93d5cba1176383b9"]
+
+eNach Registration Logs - 2025-05-16 13:01:38===============================================
+Response- ["0392","User Aborted","Transaction aborted by user","CSPYTXN1614854983","","E43900483","1","{itc:463952CSPY656}{email:yusha.abidi110@gmail.com}{mob:9599813916}","16-05-2025 13:01:36","NA","","","","","","ff1b02ae784a92f19bd05ac80add2a50523116535bfc6ebf2ad57cd3010df0f3b5446467fc91ffd6e481abfd099af856db7572604429c1393095778c2ab90bb1"]
+
+eNach Registration Logs - 2025-05-16 13:08:06===============================================
+Response- ["0300","success","","CSPYTXN9985216945","11140","643895056","1.00","{itc:463952CSPY353~mandateData{UMRNNumber:PUNB7021605252008563~IFSCCode:PUNB0449600~amount_type:M~frequency:MNTH~account_number:4496000100137557~expiry_date:16-05-2029~ifsc_code:~amount:115596~identifier:~schedule_date:16-05-2025~debitDay:~debitFlag:N~aadharNo:~accountHolderName:mamta dangri~accountType:Saving~dateOfBirth:~mandatePurpose:~utilityNo:~helpdeskNo:~helpdeskEmail:~pan:~phoneNumber:9871600560~emailID:yusha.abidi110@gmail.com}}{email:yusha.abidi110@gmail.com}{mob:9599813916}","16-05-2025 13:05:55","NA","","","228cbebba6ea734427b7a58cd4364721","1230808302","d85c0ae2-dc35-4fe3-880c-f1d053a3083d","a08884549da6b96a1a8f24e6caef58f49c2d6ffbfc82a3f48a37c3dd74622f7d7f64386114ff9f6446b78c5bef948495e7b3f4b07ad6316a094deb09c87da067"]
+
+eNach Registration Logs - 2025-05-28 16:03:53===============================================
+Response- ["0392","User Aborted","Enter valid maximum amount","CSPYTXN3227995307","","E44331255","0","{itc:471923CSPY133}{email:}{mob:}","28-05-2025 16:03:52","NA","","","","","","4f1ade036980e66a523302e9bd3f88b163ade5495d3c4336f4513680b720121f76af7c45cf945194496c56d15f4b870f57822f4c77215c627f8eae0635bc69aa"]
+
+eNach Registration Logs - 2025-05-28 16:04:21===============================================
+Response- ["0392","User Aborted","Enter valid maximum amount","CSPYTXN3227995307","","E44331255","0","{itc:471923CSPY133}{email:}{mob:}","28-05-2025 16:03:52","NA","","","","","","4f1ade036980e66a523302e9bd3f88b163ade5495d3c4336f4513680b720121f76af7c45cf945194496c56d15f4b870f57822f4c77215c627f8eae0635bc69aa"]
+
+eNach Registration Logs - 2025-05-30 16:36:39===============================================
+Response- ["0392","User Aborted","Enter valid maximum amount","CSPYTXN6593614351","","E44403116","0","{itc:967532CSPY116}{email:}{mob:}","30-05-2025 16:36:38","NA","","","","","","2bff4f9ba11f30e0a743e33930f118494ceb6a5c194d5068537e953de9b1946862dfbfbec364ed66d864e07389137f03c5fe312e6381ba75690acc3b9486e735"]
