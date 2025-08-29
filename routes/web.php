@@ -24,7 +24,7 @@ use App\Http\Controllers\MailController;
 use App\Http\Controllers\TestController;
 use App\Http\Controllers\BankStatementController;
 use Illuminate\Support\Facades\Route;
-
+   
 /*
 |--------------------------------------------------------------------------
 | Web Routes
